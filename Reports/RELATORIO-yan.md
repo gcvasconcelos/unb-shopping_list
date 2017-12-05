@@ -1,9 +1,11 @@
-﻿# Relatório de descrição de tarefas
-
-| Data          | Horas Trabalhadas | Tipo Tarefa | Descrição               |
-| ------------- |:-----------------:|:-----------:|:-----------------------:|
-| 02/12         |  6h               | Testes 	   | Testes do funcionamento do
-								     código                        
-						   Funções em    Inserir item
-							grupo	     Adicionar item
-								     Editar lista de compras
+﻿| Data          | Horas Trabalhadas | Tipo Tarefa | Descrição                           |
+| ------------- |:-----------------:|:-----------:|:-----------------------------------:|
+| 29/11        | 2h                | fase 1      | Documento do projeto                |
+| ------------- |:-----------------:|:-----------:|:-----------------------------------:|
+| 02/12         | 2h                | fase 2      |  Code meeting grupo |
+| ------------- |:-----------------:|:-----------:|:-----------------------------------:|
+| 02/12         | 2h                | fase 2      | Pair programming                    |
+| ------------- |:-----------------:|:-----------:|:-----------------------------------:|
+| 01/12         | 1h                | fase final  | realização de testes                    |
+| ------------- |:-----------------:|:-----------:|:-----------------------------------:|
+| 05/12         | 1h                | fase final  | arrumações finais                       |
