@@ -1,3 +1,12 @@
+Para compilar o algoritmo:
+	1.Abra o terminal;
+	2.Entre no diretorio Sources;
+	3.digite make all;
+	4.digite ./run main;
+	5.Siga  as orientacoes do algoritmo;
+
+
+
 # Projeto Final - Métodos de Programação
 
 Este projeto consiste no trabalho final da matéria de Métodos de Programação ofertada pelo Departamento de Ciência da Computação e lecionada pelo professos Jan Correa. 

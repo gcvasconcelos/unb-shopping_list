@@ -45,7 +45,7 @@ void exibirLista(lista listaExibida) {
 	for (int i = 0; i < listaExibida.numElementos; i++) { //Para cada elemento da lista...
 		barrasElementoAtual = listaExibida.elementos.substr((14*i),13);
 		item itemAtual = pesquisaItemPorCodBarras(barrasElementoAtual);
-		if (strlen(nomeItem.c_str()) > 0) {
+		if (strlen(itemAtual.nomeItem.c_str()) > 0) {
 			exibirItem(itemAtual);
 		}
 		else {
@@ -189,7 +189,7 @@ string apagarLista(string stringCodLista) {
 		 * false => procura na proxima linha
 		 */
 		if (stringCodLista.compare(line.substr(0,4)) == 0) {
-			printw("Lista %s removida do arquivo\n", stringCodLista.c_str());
+			//printw("Lista %s removida do arquivo\n", stringCodLista.c_str());
 			listaRemovida = line;
 		}
 		else {
