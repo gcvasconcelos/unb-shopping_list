@@ -1,5 +1,4 @@
 # Relatório de descrição de tarefas
-
 | Data          | Horas Trabalhadas | Tipo Tarefa | Descrição               |
 | ------------- |:-----------------:|:-----------:|:-----------------------:|
 | 29/11 | 2 | final | code |
